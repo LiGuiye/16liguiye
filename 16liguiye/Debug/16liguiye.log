@@ -1,3 +1,7 @@
 ﻿  16liguiye.cpp
-c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(84): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(78): warning C4305: “初始化”: 从“int”到“float”截断
+c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(142): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\liguiye\desktop\图像理解与分析\16liguiye\16liguiye\16liguiye.cpp(152): warning C4326: “main”的返回类型应为“int”而非“void”
   16liguiye.vcxproj -> C:\Users\LiGuiye\Desktop\图像理解与分析\16liguiye\Debug\16liguiye.exe
