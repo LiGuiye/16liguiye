@@ -1,2 +1,1 @@
 # DigitalImageProcessing
-实现读取bmp影像和生成灰度直方图两个函数的封装
